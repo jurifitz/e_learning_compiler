@@ -1,34 +1,35 @@
 ---
-layout: default
+layout: lesson
 title: "Introduction to NLP and Learning Paradigms"
 module: 1
 date: 2026-09-21
 learning_outcomes:
-  - Explain what Natural Language Processing (NLP) is and why it matters.
-  - Differentiate supervised and unsupervised learning by their data requirements.
-  - Apply the correct learning paradigm to a simple NLP task.
+  - Define Natural Language Processing (NLP) in your own words.
+  - Distinguish between supervised and unsupervised learning based on data requirements.
+  - Classify a simple NLP task as supervised or unsupervised.
 ---
 
 ## 🎯 Learning Outcomes
-* Explain what Natural Language Processing (NLP) is and why it matters.
-* Differentiate supervised and unsupervised learning by their data requirements.
-* Apply the correct learning paradigm to a simple NLP task.
+* Define Natural Language Processing (NLP) in your own words.
+* Distinguish between supervised and unsupervised learning based on data requirements.
+* Classify a simple NLP task as supervised or unsupervised.
 
 ---
 
 ## 📖 Core Theory
-## What is NLP?
+## What Is NLP?
 
 Natural Language Processing (NLP) is the field of computer science that enables computers to analyze, understand, and generate human language.
 
 ## Supervised vs. Unsupervised Learning
 
 - **Supervised learning** uses labeled data, where examples are paired with the correct answer.
-- **Unsupervised learning** uses raw, unlabeled data and discovers patterns without explicit labels.
+- **Unsupervised learning** uses raw, unlabeled data and discovers patterns without explicit answers.
 
-In NLP, supervised learning is common for tasks like classification, while unsupervised learning can be used for clustering or topic discovery.
+In NLP, supervised methods might classify text with labeled categories, while unsupervised methods might group similar documents without predefined labels.
 
 ---
 
 ## 🧠 Knowledge Check
-<details><summary>Question 1: Which type of learning uses labeled data?</summary>Supervised learning uses labeled data, where each example is paired with the correct answer.</details><details><summary>Question 2: What does NLP allow computers to do?</summary>NLP allows computers to analyze, understand, and generate human language.</details>
+<details><summary>1. What does NLP allow computers to do?</summary>Correct answer: Analyze human language.</details>
+<details><summary>2. Which learning approach uses raw data without labels?</summary>Correct answer: Unsupervised learning.</details>

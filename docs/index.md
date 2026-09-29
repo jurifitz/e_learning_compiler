@@ -1,3 +1,3 @@
-# E-Learning Übersicht
+# Kursübersicht
 
-* [Modul 1: Introduction to NLP and Learning Paradigms](./module-1.md)
+Nutze die Seitenleiste links, um zwischen den Modulen zu navigieren.

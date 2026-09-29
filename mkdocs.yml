@@ -1,0 +1,7 @@
+site_name: "Mein Interaktiver Kurs"
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - search.highlight
+    - search.suggest
