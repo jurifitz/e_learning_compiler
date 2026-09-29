@@ -4,7 +4,7 @@ theme:
   features:
     - navigation.tabs
     - navigation.sections
-    - toc.integrate # Zieht die Unterkapitel (##) direkt in die linke Seitenleiste
+    - toc.integrate
     - search.highlight
     - search.suggest
 nav:
