@@ -1,3 +1,9 @@
 # Lecture 2
 
-(Noch nicht verarbeitet)
+## Learning outcomes
+
+## Content
+
+## Knowledge check
+
+## Sources

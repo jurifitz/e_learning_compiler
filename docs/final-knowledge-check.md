@@ -1,3 +1,3 @@
 # Final knowledge check
 
-(Inhalte folgen nach Verarbeitung aller Lektionen)
+(Abschluss-Quiz über das ganze E-Learning-Modul, zusammengestellt aus den bisherigen Quizzes und neuen Fragen)

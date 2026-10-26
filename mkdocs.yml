@@ -3,5 +3,13 @@ theme:
   name: material
   features:
     - navigation.tabs
+    - navigation.sections
+    - toc.integrate # Zieht die Unterkapitel (##) direkt in die linke Seitenleiste
     - search.highlight
     - search.suggest
+nav:
+  - "1. Welcome page": index.md
+  - "2. Lecture 1": lecture-1.md
+  - "3. Lecture 2": lecture-2.md
+  - "4. Final knowledge check": final-knowledge-check.md
+  - "5. Sources": sources.md
