@@ -1,3 +1,3 @@
 # Sources
 
-(Sämtliche bisher genannten Quellen)
+(Alle Quellen)

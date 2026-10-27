@@ -1,103 +1,228 @@
 # Lecture 1
 
 ## Learning outcomes
-* Formulieren interdisziplinäre Fragestellungen und reflektieren die eigene Disziplin für Transferkompetenz.
-* Erklären, wie Erziehungswissenschaft und Geschichte jeweils zum Verständnis des Klimawandels beitragen.
-* Eigene Verantwortung für Quellen und wissenschaftliche Integrität bei KI-Nutzung benennen
-* Apply the concept of critical climate justice to analyze power relations in climate-related educational contexts.
-* Sie nutzen KI als Kooperationspartner, ohne eigenes Denken, Argumentieren oder Quellenarbeit auszulagern.
-* Entwickeln didaktische oder analytische Impulse für den Umgang mit der Klimakrise.
-* Explain how transformation processes are systematized in educational research on education for sustainable development.
-* Unterschied zwischen Lesen und Verstehen in der wissenschaftlichen Arbeit reflektieren
-* Unterscheiden, welche Fragestellungen physische, integrative und Humangeographie am Beispiel Klimawandel bearbeiten.
-* Die Lernenden können die wichtigsten Termine und Aufgaben zur Vorbereitung der Gruppenarbeit benennen.
-* Verbinden historischer und geographischer Perspektiven, um Vulnerabilität, Resilienz und räumliche Zusammenhänge zu beurteilen.
-* Sie unterscheiden zwischen immer zulässigen KI-Tools und umsichtig einzusetzenden LLMs.
-* Ordnen zentrale Konzepte der Bildung für nachhaltige Entwicklung und der historischen Perspektive ein.
-* Beschreiben, welche Rolle Geographie als Raum- und Mensch-Umwelt-Wissenschaft auf verschiedenen Skalen spielt.
-* Erklären, wie Geschichte durch die Analyse vergangener Veränderungen und Muster aktuelle Nachhaltigkeitsprobleme kontextualisiert.
-* Die Studierenden können Grundsätze eines verantwortungsvollen KI-Umgangs benennen und in der Gruppenarbeit anwenden.
-* Sie formulieren eine spezifische und eng gefasste Forschungsfrage, um den Projektfortschritt zu steuern.
-* Die Studierenden können disziplinäre Perspektiven auf Klimawandel und Nachhaltige Entwicklung erklären und interdisziplinäre Zusammenarbeit reflektieren.
-* Erklären, warum Geographie als Brücke zwischen Natur- und Geisteswissenschaften für nachhaltige Entwicklung relevant ist.
-* Typische Fehler in KI-generierten Texten erkennen und mit Quellen überprüfen
-* Die Lernenden können Reflexionsinstrumente wie den Muddiest Point zur Klärung von Lernschwierigkeiten nutzen.
-* Die Studierenden können KI-generierte Texte systematisch auf wissenschaftliche Verlässlichkeit überprüfen.
-* Die Lernenden können den Bezug von Reflexion, Gruppenarbeit und Bildung für nachhaltige Entwicklung erklären.
+- können KI-generierte Texte systematisch auf ihre wissenschaftliche Verlässlichkeit hin überprüfen.
+- können verschiedene disziplinäre Perspektiven auf den Klimawandel erklären und deren Mehrwert für ein interdisziplinäres Verständnis erkennen.
+- Understand the basic course guidelines for dealing with AI.
+- Recognize that work must be done independently and AI must be used as a partner, not a ghostwriter.
 
 ## Content
-### Umgang mit KI und disziplinäre Perspektiven auf Nachhaltige Entwicklung
-Nachhaltigkeitsbildung ist in der Schweizer Bildungspolitik verankert. KI-Tools können Recherche, Strukturierung und Reflexion unterstützen, ersetzen aber keine wissenschaftliche Prüfung. Besonders wichtig sind die Verifikation von Quellen, Daten und Zitaten, die Prüfung auf Plausibilität und Verzerrungen sowie die transparente Dokumentation der KI-Nutzung.
+### KI-Nutzung und disziplinäre Perspektiven für Nachhaltige Entwicklung
 
-Ein verantwortungsvoller Umgang mit KI umfasst akademische Integrität, Datenschutz, Nachvollziehbarkeit und kritische Reflexion. In der Gruppenarbeit sollten Studierende klären, welche Aufgaben KI übernimmt, welche Ergebnisse geprüft werden und wie die Ergebnisse in eigene wissenschaftliche Argumentation eingebettet werden.
 
-Disziplinäre Perspektiven auf Klimawandel und Nachhaltige Entwicklung ergänzen sich: Naturwissenschaften liefern Daten und Mechanismen, Sozial- und Wirtschaftswissenschaften analysieren Handlungsmuster, Governance und Innovation, Geisteswissenschaften reflektieren Werte, Narrative und Gerechtigkeit. Interdisziplinäre Zusammenarbeit hilft, komplexe Transformationsprozesse zu verstehen, zu strukturieren und kritisch zu hinterfragen.
+### Transformationsforschung und Umgang mit KI
+## Transformationsforschung und Umgang mit KI
 
-### Umgang mit KI in der akademischen Arbeit
-Transformation wird als mehrstufiger gesellschaftlicher Wandel verstanden, in dem soziale Abläufe, technologische Innovationen und institutionelle Strukturen zusammenwirken. Soziale Innovationen können dabei eine zentrale transformative Rolle spielen, weil sie neue Praktiken, Regeln und Formen der Zusammenarbeit ermöglichen.
+Der Text beschreibt die **Ausgangslage** für Transformationsforschung und den **Umgang mit KI** im Arbeits- und Forschungskontext.
 
-Im akademischen Kontext bedeutet der Umgang mit KI, dass Arbeit selbst geleistet werden muss. Grammatik- und Korrektur-Tools, Suchmaschinen und Zitiergeneratoren sind immer zulässig, während LLMs umsichtig eingesetzt werden sollten, weil sie erfundene Fakten und Zitate enthalten können. KI ist ein Kooperationspartner, kein Ghostwriter: eigene Ideen, Argumente, Belege und Schlussfolgerungen bleiben die Grundlage der Arbeit.
+### Wissenschaft und Transformation
 
-Wichtig ist, das Denken nicht auszulagern. Erst eigene Ideen entwickeln, dann KI für Recherche, Fragen oder Feedback nutzen, Ergebnisse kritisch prüfen und die Arbeit so überarbeiten, dass sie die eigene Argumentation widerspiegelt. Sensible Daten und Interviewprotokolle dürfen niemals hochgeladen werden, und die Nutzung generativer KI muss transparent angegeben werden.
+Das Gutachten des **WBGU (201
 
-### Spot the Fake: KI-Texte kritisch prüfen
-KI-generierte Texte können plausibel klingen, enthalten aber häufig formale, faktische oder inhaltliche Fehler. In der Übung *Spot the fake* vergleichen Studierende ein KI-generiertes Dokument zum Thema Abfall mit dem Schlüsseltext Wälti & Almeida (2016). Manche Fehler lassen sich durch sorgfältiges Gegenchecken auffinden, andere nur durch echtes Verständnis der konkreten Aussagen und Beispiele.
+### Responsible Use of AI in Academic Work
+## Responsible Use of AI in Academic Work
 
-Das Kriterium „Der Text liest sich gut“ ist nicht ausreichend. Aktives Zusammenfassen, Analysieren und Verknüpfen mit Originalquellen bleibt auch bei KI-Unterstützung unverzichtbar. Die Verantwortung für Quellen, Fakten und wissenschaftliche Integrität liegt weiterhin bei den Autor*innen.
+This module introduces the basic guidelines for using artificial intelligence in the course. The central idea is that **AI should be used as a partner, not as a replacement for your own thinking**.
 
-### Klimawandel: Disziplinäre Perspektiven – Erziehungswissenschaft und Geschichte
-Der Klimawandel lässt sich nicht aus einer einzigen Disziplin erschließen. Die Erziehungswissenschaft fragt, wie Wissen, Werte, Kompetenzen und Haltungen vermittelt werden können, damit Individuen und Gesellschaften handlungsfähig werden. Zentrale Konzepte sind Bildung für nachhaltige Entwicklung, transformative Lernprozesse und die Berücksichtigung von Emotionen und inneren Dimensionen im Lernen.
+### What is always allowed?
 
-Die Geschichte liefert Orientierungswissen: Sie macht Vergangenheit zu einem Bezugspunkt für Gegenwart und Zukunft, arbeitet mit komplexen Zusammenhängen statt isolierter Laborbedingungen und erschließt Kontexte. Zusammen ermöglichen beide Perspektiven, die Klimakrise nicht nur zu analysieren, sondern auch bildungs- und gesellschaftspolitisch zu gestalten.
+The following tools are generally permitted:
 
-### Geschichte und Geographie als Perspektiven für nachhaltige Entwicklung
-Geschichte liefert für nachhaltige Entwicklung vor allem Kontext: Sie analysiert Veränderungen, Identitäten und gesellschaftliche Transformationen über die Zeit und macht damit Muster sichtbar, die im Gegenwärtigen oft unsichtbar bleiben. Für Umweltfragen schafft sie temporale Bezugspunkte, etwa bei der Frage, was bei Renaturierung wiederhergestellt werden soll, und zeigt, wie Gesellschaften auf extreme Klimaereignisse reagierten.
+- Grammar and correction tools, for example **Grammarly** or **DeepL**
+- Search engines, for example **Google Scholar** or library catalogs
+- Citation generators, for example **Scribbr**
 
-Geographie ergänzt diese Perspektive als Raum- und Mensch-Umwelt-Wissenschaft. Sie verbindet physische, humane und integrative Ansätze und arbeitet mit Skalen von global bis lokal. Zusammen ermöglichen Geschichte und Geographie, ökologische, soziale und räumliche Zusammenhänge für nachhaltige Entwicklung zu verstehen.
+### Using LLMs carefully
 
-### Geographische Disziplinperspektiven auf Klimawandel und Nachhaltigkeit
-Geographie verbindet natur- und geisteswissenschaftliche Methoden und Perspektiven und wirkt als Brücke zwischen Disziplinen. Sie untersucht Phänomene auf verschiedenen Skalen und in verschiedenen Räumen, wodurch differenzierte und kritische Einblicke möglich werden. Für eine nachhaltige Entwicklung ist diese Perspektive besonders relevant, weil sie ökologische, soziale und räumliche Zusammenhänge zusammen denkt.
+Large language models, or **LLMs**, can be useful, but they must be used carefully. Texts generated by LLMs may contain:
 
-Am Beispiel Klimawandel zeigt sich, dass die geographische Perspektive je nach Subdisziplin und Raumverständnis variiert. Physische Geographie fragt etwa nach Gletscherrückzug und Abflussmengen, integrative Geographie nach Auswirkungen auf Landwirtschaft und Ernährungssicherheit, Humangeographie nach vulnerablen Gruppen oder genderspezifischem Zugang zu Wasser. Kritische Ansätze hinterfragen, warum Klimafolgen räumlich ungleich verteilt sind, etwa bei Hitzeinseln, und fördern Transferkompetenz durch interdisziplinäre Reflexion.
+- Invented facts
+- Incorrect or fabricated citations
+- Biased or incomplete information
 
-### Reflexion & Diskussion: Einführung in die Gruppenarbeit
-Dieses Modul führt in Reflexion und Diskussion als zentrale Elemente der Gruppenarbeit ein. Es verbindet die selbstständige Bearbeitung des Online-Lernmoduls mit der Möglichkeit, Unklarheiten in der Sprechstunde zu klären und über den Muddiest Point Lernschwierigkeiten zu benennen.
+Therefore, AI should be treated as a **cooperation partner**, not as a ghostwriter.
 
-Die genannten Termine und Aufgaben fördern selbstreguliertes Lernen und bereiten auf die gemeinsame Bearbeitung von Themen vor. Die weiterführenden Quellen zeigen, dass die Reflexion auch fachlich eingebettet ist: Klimawandel, Geographie und Bildung für nachhaltige Entwicklung werden als relevante Bezugsfelder genannt.
+### The main rule
 
-### Transformationsprozesse, BNE und kritische Klimagerechtigkeit
-This module connects two perspectives: Singer-Brodowski (2025) systematizes transformation processes in educational science from the standpoint of education for sustainable development (BNE), emphasizing that sustainability transformations are not only technical or policy changes but also shifts in knowledge, values, and educational practices. Sultana (2022) adds a critical climate justice lens, asking who bears the costs of climate change, who benefits from mitigation and adaptation, and how power, race, class, and geography shape climate outcomes.
+You are required to create your own original content. This means:
 
-Together, these sources suggest that sustainable transformation in education must be understood as both a pedagogical and a justice-oriented process. Learners are not only trained to adopt sustainable behaviors, but also to question structural inequalities, historical responsibilities, and distributional conflicts that shape climate and sustainability debates.
+- Develop your own arguments
+- Select and interpret evidence yourself
+- Draw your own conclusions
+- Disclose the use of generative AI according to the study program guidelines
+- Never upload sensitive data or interview protocols
+- Use AI responsibly, because LLMs have real ecological and social costs
+
+### Do not outsource your thinking
+
+Instead of letting AI think for you, use it to support your work:
+
+- First develop your own ideas
+- Use AI to research, ask questions, or receive feedback
+- Critically check AI results for accuracy, bias, and correct sources
+- Revise and build on the results so that the final work reflects your own argumentation
+
+### KI-Texte kritisch prüfen: Spot the fake
+## Kritische Prüfung KI-generierter Texte
+
+KI-generierte Texte können hilfreich sein, wenn sie **unterstützend** und **kritisch geprüft** genutzt werden. Sie dürfen aber nicht dazu führen, dass Studierende Inhalte einreichen, die sie nicht wirklich gelesen oder verstanden haben.
+
+Zentrale Punkte:
+
+- **Eigene Argument
+
+### Quality Checking, Socratic Learning, and Interdisciplinary Climate Challenges
+## Checking AI-supported texts
+
+- Factual or formal errors can often be found by checking the required reading or original sources.
+- Other errors require a deeper understanding of the required reading and cannot be detected by skimming alone.
+- “The text reads well” is not a quality criterion.
+- Engaging with key literature remains necessary, even when AI support is used.
+
+## Socratic method
+
+- The Socratic method is a form of conversation that helps learners discover answers and insights themselves.
+- It does not provide direct answers, formulations, or ready-made questions.
+
+## Interdisciplinary perspectives on complex challenges
+
+- Complex challenges in environmental contexts cannot be solved by a single discipline alone.
+- Close collaboration between science and practice actors is required.
+- Climate change is a complex, transnational challenge with ecological, environmental, sociopolitical, and socioeconomic dimensions.
+- Education science studies education, teaching, and learning processes across school, higher education, vocational education, out-of-school education, and lifelong learning.
+
+### Erziehungswissenschaft für nachhaltige Entwicklung und Klimawandel
+## Disziplinäre Perspektiven der Erziehungswissenschaft
+
+Die Erziehungswissenschaft verbindet **the
+
+### Geschichte als Perspektive für Klimaschutz und Klimaanpassung
+## Geschichte als disziplinäre Perspektive für nachhaltige Entwicklung
+
+Bildungseinrichtungen können im Sinne eines **Whole-Institution-Approach** über **Curriculum, Campus und Community** zum Klimaschutz und zur Klimaanpassung beitragen. Die Geschichtswissenschaft leistet dabei einen spezifischen Beitrag, weil sie **Orientierungswissen über Veränderung** vermittelt.
+
+Geschichte analysiert vergangene Prozesse und Ereignisse und erschließt damit **Kontexte und Zusammenhänge**, die für das Verständnis von Gegenwart und Zukunft relevant sind. Im Gegensatz zu naturwissenschaftlichen Laboransätzen arbeitet Geschichte oft mit **Komplexität** und kann Muster erkennen, die in der Gegenwart sonst unsichtbar bleiben.
+
+Für den Klimawandel ist diese Perspektive besonders relevant:
+
+- Vor **1850** gab es keine systematischen Klimamessungen.  
+- Der Klimawandel wird daher mit **Proxydaten** rekonstruiert.  
+- Vergangene extreme Naturereignisse wie **Hitze, Dürre, Überschwemmungen oder Vulkanausbrüche** zeigen, wie Gesellschaften auf Umweltveränderungen reag
+
+### Disziplinäre Perspektiven: Geschichte und Geographie im Klimawandel
+## Disziplinäre Perspektiven: Geschichte und Geographie
+
+Die Geschichte betrachtet Klimawandel und extreme Umweltereignisse als gesellschaftliche Prozesse. Sie fragt etwa, welche Folgen vergangene Klimaereignisse wie die kleine Eiszeit oder der Ausbruch des Tambora 1815 hatten, wie Gesellschaften auf Ernteausfälle, Hitze, Dürre oder Überschwemmungen reagierten und wie sich Ernährungssysteme sowie Landwirtschaft unter klimatischem Stress veränderten.
+
+Ein weiterer Fokus liegt auf der Rolle von Umweltfaktoren bei politischen Umbrüchen, etwa bei der französischen Revolution oder beim Untergang des antiken Roms. Die Geschichte untersucht außerdem, welche Gesellschaften oder Systeme besonders resilient oder vulnerabel waren, welche Ressourcenmanagement-Praktiken langfristig stabil blieben und welche Beispiele für regenerative Landwirtschaft, Forstwirtschaft oder nachhaltige Gesellschaft-Natur-Beziehungen existierten.
+
+Die Geographie wird als Raumwissenschaft und Mensch-Umwelt-Wissenschaft verstanden. Sie arbeitet mit verschiedenen Raumvorstellungen und Raumkonzepten und analysiert Phänomene auf Skalen von global bis lokal. Im Berner Modell werden drei Subdisziplinen unterschieden:
+
+- Physische Geographie
+- Humangeographie
+- Integrative Geographie
+
+Für eine nachhaltige Entwicklung ist die Geographie besonders relevant, weil sie natur- und geisteswissenschaftliche Methoden und Perspektiven verbindet. Sie wirkt als Brücke zwischen Disziplinen und ermöglicht Forschung auf verschiedenen Skalen und in verschiedenen Räumen. Kritische geographische Ansätze helfen zudem, gesellschaftliche Strukturen und Machtver
+
+### Interdisciplinary Perspectives on Climate Change
+## Core Explanation
+
+A geographic perspective on climate change emphasizes that climate impacts are not uniform. They vary across space, scale, and social context, producing **spatial heterogeneity**. Geography therefore asks not only *what* climate change does, but *why* its impacts are distributed in particular ways.
+
+For example, urban heat islands and heat waves are shaped by a combination of climate change, spatial planning, greening strategies, and social processes such as gentrification. This shows that climate impacts must be understood through multiple spatial and social mechanisms.
+
+Different geographic subdisciplines focus on different questions:
+
+- **Physical geography** may examine how glacier retreat changes regional runoff.
+- **Integrative geography** may analyze how changed runoff affects irrigated agriculture and food security.
+- **Human geography** may investigate how climate change influences gender-specific access to water in agriculture.
+
+Beyond geography, other disciplines contribute different perspectives. History provides insight into past experiences and crisis responses, while education science contributes knowledge about learning and transformation processes.
+
+The central insight is that climate change must be understood **multidimensionally and interdisciplinarily**. Combining disciplines creates added value by integrating different methods, concepts, and perspectives. This also requires reflection on the strengths and limits of one’s own discipline and supports the development of **transfer competence**.
+
+### Education, Geography, and Sustainable Development
+
+
+### Critical Climate Justice: Source Overview
+## Core Explanation
+
+The raw text provides a single scientific reference: **Sultana, F. (2022). Critical climate justice. The Geographical Journal, 188(1), 118–124.**
+
+The title indicates that the source focuses on **critical climate justice**, a perspective that examines climate change through questions of **power, equity, responsibility, and distribution of impacts**. In this context, climate justice is not only about environmental change, but also about who is affected, who benefits, and who bears the costs of climate-related decisions.
 
 ## Knowledge check
-### Quiz: Umgang mit KI und disziplinäre Perspektiven auf Nachhaltige Entwicklung
-<details><summary>1. Welche drei Prüfschritte sind bei KI-generierten wissenschaftlichen Texten besonders wichtig?</summary>Quellen und Daten verifizieren, wissenschaftliche Plausibilität und mögliche Verzerrungen prüfen sowie die KI-Nutzung transparent dokumentieren.</details><details><summary>2. Warum sind disziplinäre Perspektiven für ein interdisziplinäres Verständnis von Nachhaltiger Entwicklung wertvoll?</summary>Weil sie unterschiedliche Ebenen von Klimawandel und Transformation beleuchten: empirische Mechanismen, soziale und ökonomische Prozesse sowie normative Fragen von Gerechtigkeit und Werten.</details>
+### Quiz: KI-Nutzung und disziplinäre Perspektiven für Nachhaltige Entwicklung
 
-### Quiz: Umgang mit KI in der akademischen Arbeit
-<details><summary>Frage 1: Welche der genannten KI-Nutzungen ist immer zulässig?</summary>Immer zulässig sind Grammatik- und Korrektur-Tools, Suchmaschinen und Zitiergeneratoren. LLMs müssen dagegen umsichtig eingesetzt werden, weil sie erfundene Fakten und Zitate enthalten können.</details>
-<details><summary>Frage 2: Was bedeutet es, das Denken nicht an KI auszulagern?</summary>Es bedeutet, zuerst eigene Ideen zu entwickeln, KI nur für Recherche, Fragen oder Feedback zu nutzen, Ergebnisse kritisch zu prüfen und die Arbeit so zu überarbeiten, dass die eigene Argumentation erkennbar bleibt.</details>
 
-### Quiz: Spot the Fake: KI-Texte kritisch prüfen
-<details><summary>Frage 1: Warum sind KI-generierte Texte trotz guter Lesbarkeit kritisch zu prüfen?</summary>Antwort: Sie können formal, faktisch oder inhaltlich fehlerhaft sein. Nur durch Gegenchecken und echtes Verständnis der Quellen lassen sich solche Fehler zuverlässig erkennen.</details>
-<details><summary>Frage 2: Was bedeutet die Nutzung von KI für die wissenschaftliche Integrität?</summary>Antwort: Die Verantwortung für Quellen, Fakten und eigene Analyse bleibt bei den Autor*innen. KI ersetzt nicht die Auseinandersetzung mit Schlüsseltexten.</details>
+### Quiz: Transformationsforschung und Umgang mit KI
 
-### Quiz: Klimawandel: Disziplinäre Perspektiven – Erziehungswissenschaft und Geschichte
-<details><summary>Frage 1: Was ist eine zentrale Aufgabe der Er
 
-### Quiz: Geschichte und Geographie als Perspektiven für nachhaltige Entwicklung
-<details><summary>1. Warum ist Geschichte für die Analyse aktueller Nachhaltigkeitsprobleme nützlich?</summary>Sie analysiert vergangene Prozesse und Ereignisse, macht Muster sichtbar und liefert temporale Bezugspunkte, um gegenwärtige Probleme besser zu verstehen.</details><details><summary>2. Welche zentrale Rolle spielt Geographie für nachhaltige Entwicklung?</summary>Geographie verbindet Raum- und Mensch-Umwelt-Perspektiven über verschiedene Skalen hinweg und integriert physische, humane und integrative Ansätze.</details>
+### Quiz: Responsible Use of AI in Academic Work
+<details>
+<summary>Which tools are always allowed for AI use?</summary>
+Grammar and correction tools, search engines, and citation generators are always allowed.
+</details>
+<details>
+<summary>What is the main rule when using LLMs for academic work?</summary>
+You must create your own original content, develop your own arguments, and disclose AI use according to the study program guidelines.
+</details>
 
-### Quiz: Geographische Disziplinperspektiven auf Klimawandel und Nachhaltigkeit
-<details><summary>Frage 1: Warum ist Geographie für eine nachhaltige Entwicklung besonders relevant?</summary>
-Antwort: Sie verbindet natur- und geisteswissenschaftliche Methoden, arbeitet auf verschiedenen Skalen und Räumen und ermöglicht kritische, interdisziplinäre Einblicke in ökologische und soziale Zusammenhänge.</details>
-<details><summary>Frage 2: Zu welcher Subdisziplin passt die Frage: Wie
+### Quiz: KI-Texte kritisch prüfen: Spot the fake
 
-### Quiz: Reflexion & Diskussion: Einführung in die Gruppenarbeit
-<details><summary>1. Bis wann ist das Online-Lernmodul selbstständig zu bearbeiten?</summary>Antwort: Bis 11.10.2026</details><details><summary>2. Wofür kann die freiwillige Sprechstunde genutzt werden?</summary>Antwort: Um Unklarheiten, Fragen und gelöste Übungen zu besprechen.</details>
 
-### Quiz: Transformationsprozesse, BNE und kritische Klimagerechtigkeit
-<details><summary>Question 1: What is the main contribution of Singer-Brodowski (2025) to understanding transformation in education?</summary>Answer: Singer-Brodowski systematizes transformation processes in educational science from the perspective of education for sustainable development, showing that sustainability transformations involve changes in knowledge, values, and educational practices, not only technical or policy solutions.</details><details><summary>Question 2: How does Sultana (2022) define the focus of critical climate justice?</summary>Answer: Critical climate justice focuses on power relations, distributional conflicts, and historical responsibilities, asking who benefits from and who bears the costs of climate change and its responses.</details>
+### Quiz: Quality Checking, Socratic Learning, and Interdisciplinary Climate Challenges
+<details><summary>Why is “the text reads well” not enough to judge quality?</summary>Because fluent writing can still contain factual, formal, or conceptual errors that must be checked against sources and understood in context.</details>
+<details><summary>What is the main purpose of the Socratic method?</summary>To guide learners to discover answers and insights through questions, rather than giving them direct answers.</details>
+
+### Quiz: Erziehungswissenschaft für nachhaltige Entwicklung und Klimawandel
+
+
+### Quiz: Geschichte als Perspektive für Klimaschutz und Klimaanpassung
+
+
+### Quiz: Disziplinäre Perspektiven: Geschichte und Geographie im Klimawandel
+
+
+### Quiz: Interdisciplinary Perspectives on Climate Change
+<details>
+<summary>1. Why is spatial heterogeneity important when analyzing climate change impacts?</summary>
+Spatial heterogeneity is important because climate change impacts vary by place, scale, and social context. Geography asks why impacts are distributed in particular ways, rather than assuming they are uniform.
+</details>
+<details>
+<summary>2. What is the main benefit of combining scientific disciplines in climate change understanding?</summary>
+Combining scientific disciplines creates a multidimensional understanding of climate change. It integrates different methods, concepts, and perspectives, while also encouraging reflection on the limits of one’s own discipline and supporting transfer competence.
+</details>
+
+### Quiz: Education, Geography, and Sustainable Development
+
+
+### Quiz: Critical Climate Justice: Source Overview
+<details><summary>What is the title of the cited article?</summary>Critical climate justice</details>
+<details><summary>Which journal published the cited article?</summary>The Geographical Journal</details>
 
 ## Sources
-(Die in der Datei genannten Quellen werden hier noch manuell eingefügt.)
+- WBGU (2011)
+- Howaldt & Schwarz (2016)
+- Rossi et al. (2026)
+- APA Monitor (2026): https://www.apa.org/monitor/2026/07-08/ai-job-skills-thinking
+- Rossi et al., 2026
+- Wälti & Almeida, 2016
+- https://www.eea.europa.eu/en/topics/in-depth/sustainability-challenges/drivers-of-change-challenges-and-opportunities-for-sustainability-in-europe-1
+- Faulstich-Wieland & Faulstich, 2008
+- Krüger & Helsper, 2004
+- Lewis et al., 2024
+- Rieckmann, 2021
+- Scheunpflug & Costa, 2025
+- Singer-Brodowski, 2025
+- https://history.wisc.edu/undergraduate-program/history-careers/why-history/
+- DGfG, 2025
+- Probst et al., 2025
+- Aspinall, 2010
+- Sultana, 2022
+- Hulme, 2008
+- Beray-Armond, 2022
+- Faulstich-Wieland, H. & Faulstich, P. (2008). Erziehungswissenschaft. Ein Grundkurs. Rowohlt : Reinbek bei Hamburg. https://doi.org/10.25656/01:9334
+- Hulme, M. (2008). Geographical Work at the Boundaries of Climate Change. Transactions of the Institute of British Geographers, 33(1), 5–11.
+- Kr
+- Sultana, F. (2022). Critical climate justice. The Geographical Journal, 188(1), 118–124. https://doi.org/10.1111/geoj.12417
